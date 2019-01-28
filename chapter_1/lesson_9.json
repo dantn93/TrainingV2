@@ -1,0 +1,77 @@
+{
+  "id": "9",
+  "type": "LESSON",
+  "title": "Dọn nhà bếp",
+  "nextLesson": "https://raw.githubusercontent.com/dantn93/TrainingTest/master/chapter_1/lesson_10.json",
+  "previousLesson": "https://raw.githubusercontent.com/dantn93/TrainingTest/master/chapter_1/lesson_8.json",
+  "quizzLink": "https://raw.githubusercontent.com/dantn93/TrainingTest/master/chapter_1/quizz_4.json",
+  "quizzId": "4",
+  "content" : [
+    {"banner": "http://13.229.69.123/wp-content/uploads/2018/09/NB-768x178.png"},
+    {"h1": "DỤNG CỤ LAU DỌN BẾP"},
+    {"list": [
+      {"line": [
+        {"text": "Khăn"}
+      ]},
+      {"line": [
+        {"text": "Mút xốp rửa chén"}
+      ]},
+      {"line": [
+        {"text": "Chổi quét nhà"}
+      ]},
+      {"line": [
+        {"text": "Gạt kính"}
+      ]},
+      {"line": [
+        {"text": "Găng tay"}
+      ]},
+      {"line": [
+        {"text": "Nước lau sàn"}
+      ]},
+      {"line": [
+        {"text": "Nước lau kính"}
+      ]},
+      {"line": [
+        {"text": "Kem tẩy đa năng"}
+      ]},
+      {"line": [
+        {"text": "Nước rửa chén"}
+      ]},
+      {"line": [
+        {"text": "Giấm"}
+      ]}
+    ]},
+    {"warning": "*Lưu ý: Tuyệt đối không sử dung miếng chùi sắt/ miếng nhôm vì tính chất bào mòn bề mặt tiếp xúc sẽ gây hư hỏng vật dụng"},
+    {"video": "iXyYJyq2L80"},
+    {"h1": "Quy trình dọn phòng bếp"},
+    {"list": [
+      {"line": [
+        {"text": "Gom chén, đĩa dơ, nồi, chảo cho vào bồn rửa chén. Rửa xong thì úp gọn cho ráo."}
+      ]},
+      {"line": [
+        {"text": "Vệ sinh luôn bồn rửa chén và lau khô nước khu vực xung quanh."}
+      ]},
+      {"line": [
+        {"text": "Lau tủ trên kệ bếp, từ cao xuống thấp."}
+      ]},
+      {"line": [
+        {"text": "Vệ sinh khu vực bếp nấu: như máy hút khói, bề mặt bếp gas, bếp điện, nồi cơm điện, bình siêu tốc, lau luôn mảng tường xung quanh vì rất hay bị dính dầu mỡ."}
+      ]},
+      {"line": [
+        {"text": "Nếu còn thức ăn trên bàn thì sắp xếp hoặc bọc lại theo yêu cầu của khách."}
+      ]},
+      {"line": [
+        {"text": "Vệ sinh tủ lạnh nếu khách yêu cầu."}
+      ]},
+      {"line": [
+        {"text": "Quét hoặc hút bụi sàn nhà."}
+      ]},
+      {"line": [
+        {"text": "Thu gom và đổ rác. Nếu có đồ ăn thừa cần báo khách trước khi mang đi vứt hoặc đổ."}
+      ]},
+      {"line": [
+        {"text": "Nhìn bao quát lại một lần nữa để đảm bảo mọi thứ hoàn hảo."}
+      ]}
+    ]}
+  ]
+}

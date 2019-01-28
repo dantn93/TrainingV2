@@ -1,0 +1,30 @@
+{
+  "id": "0",
+  "type": "LESSON",
+  "title": "Mô hình bTaskee là gì?",
+  "nextLesson": "https://raw.githubusercontent.com/dantn93/TrainingTest/master/chapter_1/lesson_1.json",
+  "previousLesson": null,
+  "content": [
+                {"banner": "http://13.229.69.123/wp-content/uploads/2018/09/bang-hieu-300x154.png"},
+                {"line": [
+                  {"text": "bTaskee là công ty cung cấp dịch vụ giúp việc nhà theo mô hình hiện đại. Chỉ với một chiếc điện thoại thông minh, người giúp việc có thể dễ dàng nhận công việc thông qua ứng dụng bTaskee trên điện thoại một cách tiện lợi và nhanh chóng."}
+                ]},
+                {"line": [
+                  {"text": "Bên cạnh việc có lượng"},
+                  {"strong": "công việc đều, ổn định"},
+                  {"text": "với mức"},
+                  {"text": "thu nhập cao,"},
+                  {"text": "người giúp việc còn hoàn toàn được chủ động trong công việc và"},
+                  {"strong": "không bị phụ thuộc"},
+                  {"text": "vào một khách hàng duy nhất."}
+                ]},
+                {"line": [
+                  {"text": "Ngoài thời gian làm tại nhà khách, những Cộng Tác Viên của bTaskee vẫn có thể"},
+                  {"strong": "chủ động sắp xếp thời gian"},
+                  {"text": "để chăm lo cho con cái, hoàn thành vai trò trong gia đình."}
+                ]},
+                {"line": [
+                  {"text": "Hiện nay, bTaskee đã có mặt tại 03 thành phố lớn là Tp.Hồ Chí Minh, Đà Nẵng và Hà Nội. Trong tương lai, bTaskee sẽ tiếp tục mở rộng thêm nhiều dịch vụ gia đình hơn nữa, để tạo nhiều việc làm tốt cho đội ngũ lao động của Việt Nam."}
+                ]}
+              ]
+}

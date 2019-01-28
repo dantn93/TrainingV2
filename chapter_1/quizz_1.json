@@ -1,0 +1,43 @@
+{
+  "id": "1",
+  "type": "QUIZZ",
+  "title": "Bài kiểm tra: quy tắc vệ sinh nhà cửa chung",
+  "scoreRate": 80,
+  "nextLesson": "https://raw.githubusercontent.com/dantn93/TrainingTest/master/chapter_1/lesson_7.json",
+  "previousLesson": "https://raw.githubusercontent.com/dantn93/TrainingTest/master/chapter_1/lesson_6.json",
+  "questions": [
+    {
+      "id": 0,
+      "type": "ONE_CHOICE",
+      "question": "Trong các khu vực sau, khu vực nào nên được vệ sinh sau cùng",
+      "rightAnswer": [1],
+      "choices": [
+        "Nhà bếp",
+        "Nhà tắm/toilet",
+        "Phòng ngủ",
+        "Phòng khách"
+      ]
+    },
+    {
+      "id": 1,
+      "type": "ONE_CHOICE",
+      "question": "Dọn nơi sạch trước, nơi bẩn sau. Phòng ngủ dọn trước đến phòng khách, nhà bếp, nhà tắm và toilet",
+      "rightAnswer": [0],
+      "choices": [
+        "Đúng",
+        "Sai"
+      ]
+    },
+    {
+      "id": 2,
+      "type": "ONE_CHOICE",
+      "question": "Nên vứt rác vào lúc nào",
+      "rightAnswer": [1],
+      "choices": [
+        "Trước khi dọn vệ sinh",
+        "Vứt rác sau khi dọn vệ sinh xong",
+        "Cả trước và sau"
+      ]
+    }
+  ]
+}

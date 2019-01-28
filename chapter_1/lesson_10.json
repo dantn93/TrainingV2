@@ -1,0 +1,58 @@
+{
+  "id": "10",
+  "type": "LESSON",
+  "title": "Dọn phòng ngủ",
+  "nextLesson": "https://raw.githubusercontent.com/dantn93/TrainingTest/master/chapter_1/lesson_11.json",
+  "previousLesson": "https://raw.githubusercontent.com/dantn93/TrainingTest/master/chapter_1/lesson_9.json",
+  "quizzLink": "https://raw.githubusercontent.com/dantn93/TrainingTest/master/chapter_1/quizz_5.json",
+  "quizzId": "5",
+  "content" : [
+    {"banner": "http://13.229.69.123/wp-content/uploads/2018/09/phong-ngu-1024x238.png"},
+    {"h1": "DỤNG CỤ DỌN PHÒNG NGỦ"},
+    {"list": [
+      {"line": [
+        {"text": "Khăn lau"}
+      ]},
+      {"line": [
+        {"text": "Chổi quét nhà"}
+      ]},
+      {"line": [
+        {"text": "Nước lau kính"}
+      ]},
+      {"line": [
+        {"text": "Gạt kính"}
+      ]},
+      {"line": [
+        {"text": "Cây lau đa năng"}
+      ]},
+      {"line": [
+        {"text": "Nước lau nhà"}
+      ]}
+    ]},
+    {"h1": "Quy trình lau dọn phòng ngủ"},
+    {"list": [
+      {"line": [
+        {"text": "Phủi bụi rèm cửa, trần nhà, lau cửa kính, cửa sổ (cần phủ giường để tránh bụi)."}
+      ]},
+      {"line": [
+        {"text": "Gỡ ga cũ và thay ga mới hoặc mang đi giặt; dùng khăn ẩm lau đầu giường, sắp xếp lại gối mền."}
+      ]},
+      {"line": [
+        {"text": "Dùng khăn ẩm lau bề mặt tủ, kệ trong phòng."}
+      ]},
+      {"line": [
+        {"text": "Lau sàn nhà, với sàn gỗ lưu ý lau theo vân gỗ và phải lau bằng khăn vắt thật khô."}
+      ]},
+      {"line": [
+        {"text": "Chú ý lau luôn cả cánh cửa phòng."}
+      ]},
+      {"line": [
+        {"text": "Thu gom và đổ rác."}
+      ]},
+      {"line": [
+        {"text": "Nhìn bao quát lại một lần nữa và nhớ đóng cửa khi ra khỏi phòng."}
+      ]}
+    ]},
+    {"video": "XClqGmpX7ac"}
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "id": "7",
+  "type": "QUIZZ",
+  "title": "Bài kiểm tra: dọn nhà vệ sinh",
+  "scoreRate": 80,
+  "nextLesson": "null",
+  "previousLesson": "https://raw.githubusercontent.com/dantn93/TrainingTest/master/chapter_1/lesson_12.json",
+  "quizzLink": "https://raw.githubusercontent.com/dantn93/TrainingTest/master/chapter_1/quizz_8.json",
+  "questions": [
+    {
+      "id": 0,
+      "type": "MULTI_CHOICES",
+      "question": "Khi dọn nhà vệ sinh cần lưu ý điều gì? (Có thể chọn nhiều đáp án)",
+      "rightAnswer": [1, 2, 3],
+      "choices": [
+        "Những chỗ thấy sạch rồi không cần lau",
+        "Lấy tóc, rác trên miệng nắp cống",
+        "Đổ và thay bọc rác",
+        "Làm khô sàn nhà vệ sinh"
+      ]
+    },
+    {
+      "id": 1,
+      "type": "ONE_CHOICE",
+      "question": "Cho dung dịch tẩy rửa vào bồn cầu trước rồi mới làm các công việc khác",
+      "rightAnswer": [0],
+      "choices": [
+        "Đúng. Vì sẽ tiết kiệm được thời gian và hiệu quả tẩy rửa cao hơn",
+        "Sai. Khi nào bắt đầu làm mới đổ vào, không nên cho đổ vô trước"
+      ]
+    }
+  ]
+}

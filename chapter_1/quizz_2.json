@@ -1,0 +1,97 @@
+{
+  "id": "2",
+  "type": "QUIZZ",
+  "title": "Bài kiểm tra: dụng cụ dọn dẹp",
+  "scoreRate": 80,
+  "nextLesson": "https://raw.githubusercontent.com/dantn93/TrainingTest/master/chapter_1/lesson_8.json",
+  "previousLesson": "https://raw.githubusercontent.com/dantn93/TrainingTest/master/chapter_1/lesson_7.json",
+  "questions": [
+    {
+      "id": 0,
+      "type": "MULTI_CHOICES",
+      "question": "Hóa chất dọn dẹp vệ sinh bao gồm? (Có thể chọn nhiều đáp án)",
+      "rightAnswer": [0,1],
+      "choices": [
+        "Nước rửa chén, nước xịt kính, giấm",
+        "Vim, kem tẩy đa năng",
+        "Nước xả vải",
+        "Muối"
+      ]
+    },
+    {
+      "id": 1,
+      "type": "ONE_CHOICE",
+      "question": "Vì sao nên dùng khăn đa năng khi lau dọn?",
+      "rightAnswer": [1],
+      "choices": [
+        "Không nên dùng khăn đa năng vì lau không sạch",
+        "Không đổ lông, không gây trầy xước",
+        "Không cần giặt, khăn tự diệt khuẩn"
+      ]
+    },
+    {
+      "id": 2,
+      "type": "MULTI_CHOICES",
+      "question": "Nên vứt rác vào lúc nào",
+      "rightAnswer": [0,1],
+      "choices": [
+        "Lăn tóc và bụi trên sàn",
+        "Lăn bụi trên quần áo",
+        "Hút nước trên sàn nhà",
+        "Lau kính"
+      ]
+    },
+    {
+      "id": 3,
+      "type": "ONE_CHOICE",
+      "question": "Dùng giấm để giặt khăn có mùi hôi",
+      "rightAnswer": [0],
+      "choices": [
+        "Đúng",
+        "Sai"
+      ]
+    },
+    {
+      "id": 4,
+      "type": "ONE_CHOICE",
+      "question": "Có nên dùng găng tay khi dọn vệ sinh?",
+      "rightAnswer": [0],
+      "choices": [
+        "Có. Găng tay sẽ giúp bảo vệ da tay và sức khỏe",
+        "Không. Vì sẽ gây vướng víu khó thao tác",
+        "Không. Dùng tay thao tác trực tiếp sẽ chứng tỏ được sự nhiệt tình của Người giúp việc"
+      ]
+    },
+    {
+      "id": 5,
+      "type": "MULTI_CHOICES",
+      "question": "Cây gạt kính dùng để: (Có thể chọn nhiều đáp án)",
+      "rightAnswer": [0, 1],
+      "choices": [
+        "Gạt nước trên mặt gương, kính",
+        "Gạt nước dưới sàn còn ướt",
+        "Quét sạch bụi trên sàn gỗ"
+      ]
+    },
+    {
+      "id": 6,
+      "type": "ONE_CHOICE",
+      "question": "Giấm có thể thay thế nước lau sàn?",
+      "rightAnswer": [0],
+      "choices": [
+        "Đúng",
+        "Sai"
+      ]
+    },
+    {
+      "id": 7,
+      "type": "ONE_CHOICE",
+      "question": "Vì sao nên có nhiều khăn lau đa năng màu sắc khác nhau",
+      "rightAnswer": [1],
+      "choices": [
+        "Để bộ dụng cụ được đẹp và có vẻ đa dạng hơn",
+        "Dựa vào màu sắc để ghi nhớ công dụng cụ thể từng khăn"
+      ]
+    }
+  ]
+}

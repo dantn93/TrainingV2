@@ -1,0 +1,29 @@
+{
+  "id": "6",
+  "type": "LESSON",
+  "title": "Quy tắc vệ sinh nhà cửa chung",
+  "nextLesson": "https://raw.githubusercontent.com/dantn93/TrainingTest/master/chapter_1/lesson_7.json",
+  "previousLesson": "https://raw.githubusercontent.com/dantn93/TrainingTest/master/chapter_1/lesson_5.json",
+  "quizzLink": "https://raw.githubusercontent.com/dantn93/TrainingTest/master/chapter_1/quizz_1.json",
+  "quizzId": "1",
+  "content" : [
+    {"banner": "http://13.229.69.123/wp-content/uploads/2018/09/VSNC-300x70.png"},
+    {"list": [
+      {"line": [
+        {"text": "Dọn từ trên xuống dưới, từ trong ra ngoài"}
+      ]},
+      {"line": [
+        {"text": "Dọn nơi sạch trước, nơi bẩn sau: phòng ngủ trước đến phòng khách, nhà bếp, nhà tắm và toilet"}
+      ]},
+      {"line": [
+        {"text": "Khi lau chùi hay dọn dẹp vật dụng nào thì phải bỏ lại vị trí ban đầu cho Khách"}
+      ]},
+      {"line": [
+        {"text": "Gom rác và vứt rác sau khi dọn xong. Trước khi vứt rác phải hỏi ý kiến Khách hàng"}
+      ]},
+      {"line": [
+        {"text": "Nhìn bao quát một lần để đảm bảo mọi thứ đã hoàn hảo"}
+      ]}
+    ]}
+  ]
+}

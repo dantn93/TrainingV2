@@ -1,0 +1,101 @@
+{
+  "id": "5",
+  "type": "LESSON",
+  "title": "Ứng xử",
+  "nextLesson": "https://raw.githubusercontent.com/dantn93/TrainingTest/master/chapter_1/lesson_6.json",
+  "previousLesson": "https://raw.githubusercontent.com/dantn93/TrainingTest/master/chapter_1/lesson_4.json",
+  "quizzLink": "https://raw.githubusercontent.com/dantn93/TrainingTest/master/chapter_1/quizz_0.json",
+  "quizzId": "0",
+  "content" : [
+                {"banner": "http://13.229.69.123/wp-content/uploads/2018/09/u%CC%9Bng-xu%CC%9B-300x70.png"},
+                {"h1": "1.Tuyệt đối không thương lượng riêng"},
+                {"warning": "“Mọi hành vi nhận việc và đến nhà Khách hàng làm mà không đặt lịch thông qua ứng dụng, thì đều xem là thương lượng riêng”"},
+                {"line": [
+                  {"text": "Có trường hợp Khách hàng thấy bTasker làm việc tốt, có mong muốn bTasker đó đến nhà làm thường xuyên nên chủ động yêu cầu làm riêng ngoài hệ thống mà không cần phải đặt lịch. Cũng có trường hợp các bTasker cảm thấy có thiện cảm với Khách hàng, giờ giấc làm việc phù hợp, nhà khách lại gần nhà nên chủ động nảy sinh việc thương lượng riêng."}
+                ]},
+                {"line": [
+                  {"text": "Nhưng dù xuất phát từ ai, bTasker vẫn là người bị thiệt hại nặng nhất."}
+                ]},
+                {"h1": "Mất cơ hội được làm việc trên hệ thống"},
+                {"line": [
+                  {"text": "Mất cơ hội làm việc trên hệ thống cũng đồng nghĩa với việc mất nhiều công việc tốt và nguồn thu nhập ổn định đang có."}
+                ]},
+                {"h1": "Mất đi sự chủ động trong công việc"},
+                {"line": [
+                  {"text": "Thay vì tự xếp lịch làm việc cân bằng với cuộc sống cá nhân, khi thương lượng riêng, bTasker đặt mình vào tình trạng phụ thuộc vào lịch cố định của Khách hàng mà không có sự lựa chọn."}
+                ]},
+                {"h1": "Không được bTaskee hỗ trợ và bảo vệ quyền lợi trong lúc làm việc"},
+                {"line": [
+                  {"text": "Trong quá trình làm việc, chắc chắn ít nhiều sẽ có phát sinh xích mích hay mẫu thuẫn. Trường hợp chủ nhà khó tính, đối xử không tốt, không trả lương, hay khách yêu cầu các công việc tính chất không đúng, không phù hợp, bTaskee sẽ luôn hỗ trợ kịp thời và đòi lại quyền lợi cho người lao động."}
+                ]},
+                {"line": [
+                  {"text": "Khi đã thương lượng riêng với Khách hàng, bTaskee không hỗ trợ hay bảo vệ cho các bTasker nữa"}
+                ]},
+                {"h1": "2. Giao tiếp lịch sự, nhã nhặn, tế nhị, đúng mực với khách hàng"},
+                {"line": [
+                  {"text": "Các bTasker là những người giúp việc hiện đại, văn minh và tử tế. Do đó, nếu Khách hàng sai, cư xử chưa tốt, các bTasker vẫn nên giữ thái độ nhã nhặn, giao tiếp tế nhị, cố gắng chinh phục, làm hài lòng khách trong suốt thời gian làm việc tại nhà khách. Như vậy để đảm bảo khách không đánh giá thấp sao cho mình."}
+                ]},
+                {"line": [
+                  {"text": "Công ty sẽ tư vấn và làm việc lại với khách, nếu thật sự khách không tốt, bTaskee có thể từ chối cung cấp dịch vụ cho khách."}
+                ]},
+                {"h1": "3. Tươi cười, chào hỏi niềm nở với cả người thân hay bạn bè của khách"},
+                {"line": [
+                  {"text": "Khi vào nhà khách, bTasker nên tươi cười, chào hỏi với cả người thân hay bạn bè của khách. Đây là cách ứng xử rất văn minh, tạo thiện cảm cho cả chủ nhà, gia đình và bạn bè của họ."}
+                ]},
+                {"line": [
+                  {"text": "Về phía bạn bè của chủ nhà, khi thấy bTasker cư xử văn minh, đúng mực, làm việc tốt thì khi họ có nhu cầu, họ sẽ đặt lịch lại, các bTasker sẽ lại có thêm công việc, có thêm khách hàng."}
+                ]},
+                {"h1": "4. Hỏi và xin phép khách trước khi sử dụng phòng ốc hay các vật dụng trong nhà"},
+                {"line": [
+                  {"text": "Nhà khách là không gian riêng tư của khách, do đó khi đến làm việc, bTasker nên tôn trọng và xin phép trước khi muốn sử dụng phòng ốc hay các vật dụng trong gia đình khách."}
+                ]},
+                {"list": [
+                  {"line": [
+                    {"strong": "Phòng ốc:"},
+                    {"text": "gõ cửa trước khi vào và đóng lại nhẹ nhàng sau khi đã dọn dẹp xong."}
+                  ]},
+                  {"line": [
+                    {"strong": "Khăn lau:"},
+                    {"text": "nhiều nhà khách sử dụng các loại khăn lau riêng cho từng mục đích như khăn lau chén, lau bàn, lau bếp, lau nhà…do đó cần hỏi trước khách để biết và sử dụng cho đúng mục đích."}
+                  ]},
+                  {"line": [
+                    {"strong": "Máy hút bụi:"},
+                    {"text": "máy hút bụi rất ồn do đó phải hỏi ý kiến khách trước khi sử dụng. Nếu không biết cách sử dụng máy hút bụi, bTasker phải chủ động hỏi khách nhờ hướng dẫn cách sử dụng, không tự ý tìm cách sử dụng, vì rất dễ làm hư hỏng đồ dùng nhà khách."}
+                  ]},
+                  {"line": [
+                    {"strong": "Hóa chất:"},
+                    {"text": "hóa chất rất nguy hiểm, có nhiều khách bị dị ứng hoặc không muốn dùng hóa chất, nên bTasker phải hỏi kỹ vấn đề này trước khi sử dụng."}
+                  ]},
+                  {"line": [
+                    {"strong": "Gom và vứt rác:"},
+                    {"text": "khi dọn dẹp xong, bTasker sẽ phải gom rác lại, tuy nhiên cần chú ý hỏi lại khách để tránh gom nhầm vật dụng quan trọng của khách (đồ ăn, các mỹ phẩm, giấy tờ, tài liệu…)"}
+                  ]}
+                ]},
+                {"h1": "5. Không tò mò, về khách hàng khác, về công ty hay về các bTasker khác trong quá trình làm việc"},
+                {"line": [
+                  {"text": "Khách hàng cảm thấy không thoải mái, đôi khi là rất khó chịu khi những người giúp việc nói quá nhiều. Vì vậy bTasker chỉ nên tập trung vào công việc của mình."}
+                ]},
+                {"h1": "6. Không tự ý quyết định. Nếu không rõ phải hỏi ý kiến khách hàng, trường hợp phát sinh khác phải liên hệ về tổng đài để được hỗ trợ"},
+                {"line": [
+                  {"text": "Khi đến làm, bTasker chủ động hỏi Khách về khu vực ưu tiên thực hiện công việc và làm theo yêu cầu của Khách. Nếu Khách không có yêu cầu đặc biệt, bTasker thực hiện theo quy trình chuẩn đã được hướng dẫn."}
+                ]},
+                {"line": [
+                  {"text": "Ngay khi có thắc mắc, hỏi lại Khách để chắc chắn, không tự ý quyết định để tránh làm mất thời gian làm lại hoặc làm hỏng việc."}
+                ]},
+                {"h1": "7. Sau khi hoàn thành công việc, chủ động báo khách kiểm tra và làm lại nếu khách chưa hài lòng"},
+                {"line": [
+                  {"text": "Với mục đích là làm hài lòng khách hàng, sau khi hoàn thành công việc, bTasker nên chủ động báo với khách và nhờ kiểm tra lại."}
+                ]},
+                {"list": [
+                  {"line": [
+                    {"text": "Nếu hoàn thành tốt, khách hàng sẽ rất hài lòng và đánh giá tốt cho bTasker, phần vì chất lượng làm việc tốt, phần vì thái độ tốt."}
+                  ]},
+                  {"line": [
+                    {"text": "Nếu chưa tốt, bTasker vui vẻ làm lại, khách cũng sẽ hài lòng, mặc dù chất lượng chưa tốt nhưng bTasker đã được điểm cộng trong mắt khách hàng vì thái độ tốt và văn minh."}
+                  ]}
+                ]},
+                {"line": [
+                  {"text": "Ngoài ra đây cũng là cách để các bTasker tránh tình trạng khách nghi oan cho mình hay tránh những trường hợp hiểu lầm không đáng có."}
+                ]}
+              ]
+}

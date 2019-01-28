@@ -1,0 +1,102 @@
+{
+  "id": "8",
+  "type": "LESSON",
+  "title": "Cách sử dụng chất tẩy rửa",
+  "nextLesson": "https://raw.githubusercontent.com/dantn93/TrainingTest/master/chapter_1/lesson_9.json",
+  "previousLesson": "https://raw.githubusercontent.com/dantn93/TrainingTest/master/chapter_1/lesson_7.json",
+  "quizzLink": "https://raw.githubusercontent.com/dantn93/TrainingTest/master/chapter_1/quizz_3.json",
+  "quizzId": "3",
+  "content" : [
+    {"banner": "http://13.229.69.123/wp-content/uploads/2018/09/CT-768x178.png"},
+    {"line": [
+      {"text": "Các bTasker nên chuẩn bị sẵn vài loại chất tẩy rửa thông dụng để phục vụ cho công việc dọn dẹp của mình. Tốt nhất nên chọn các thương hiệu nổi tiếng như Gift, Cif, Sunlight, Vim, Sumo…"}
+    ]},
+    {"h1": "Phân loại"},
+    {"line": [
+      {"text": "Các chất tẩy rửa có thể được phân loại thành các nhóm cơ bản như sau:"}
+    ]},
+    {"list": [
+      {"line": [
+        {"text": "Dùng để lau kính"}
+      ]},
+      {"line": [
+        {"text": "Dùng để tẩy các vết dầu mỡ trong khu vực bếp"}
+      ]},
+      {"line": [
+        {"text": "Dùng để tẩy rửa trong khu vực nhà vệ sinh"}
+      ]},
+      {"line": [
+        {"text": "Dùng để lau nhà"}
+      ]},
+      {"line": [
+        {"text": "Dùng để tẩy các vết bẩn bám trên các vật liệu đặc biệt như Inox, Gỗ, Sứ, Nhựa, Đá…"}
+      ]}
+    ]},
+    {"h1": "Quy tắc sử dụng"},
+    {"list": [
+      {"line": [
+        {"text": "Hỏi ý kiến khách trước khi sử dụng hóa chất để tẩy rửa (vì một số khách dị ứng hoặc không cho phép sử dụng hóa chất)."}
+      ]},
+      {"line": [
+        {"text": "Luôn đeo bao tay khi sử dụng để bảo vệ sức khỏe."}
+      ]},
+      {"line": [
+        {"text": "Chỉ sử dụng khi đã biết chính xác công dụng của hóa chất đó; Kiểm tra hạn sử dụng."}
+      ]},
+      {"Line": [
+        {"text": "Sau khi sử dụng cần phải rửa lại bằng nước sạch để đảm bảo sức khỏe cho gia đình khách."}
+      ]},
+      {"line": [
+        {"text": "Tuyệt đối không sử dụng các chất tẩy rửa mạnh cho các vật dụng Inox trong nhà tắm."}
+      ]}
+    ]},
+    {"h1": "MỘT SỐ CHẤT TẨY RỬA, KHỬ MÙI TỰ NHIÊN NÊN DÙNG"},
+    {"h1": "1. GIẤM"},
+    {"h1": "Không dùng Giấm khi:"},
+    {"line": [
+      {"text": "Đánh bóng các loại sàn, đồ dùng bằng đá cẩm thạch, đá Granite, gạch lát bằng đá, sắt… vì sẽ khiến đá bị ăn mòn, bị rỗ và hỏng."}
+    ]},
+    {"h1": "Nên dùng Giấm khi:"},
+    {"line": [
+      {"strong": "Loại bỏ cặn bã mắc trong bồn rửa bát:"},
+      {"text": "đổ trực tiếp 250 ml giấm trắng vào bồn rửa bát và giữ nguyên như thế trong vòng 1 tiếng đồng hồ sau đó rửa sạch bồn bằng nước sạch."}
+    ]},
+    {"line": [
+      {"strong": "Tẩy vết ố bám trên bồn cầu:"},
+      {"text": "Đổ giấm vào bình xịt, sau đó bạn xịt vào vết ố bám trên bồn cầu rồi dùng một bàn chải nhà vệ sinh để chà rửa các vết bẩn rồi xả nước."}
+    ]},
+    {"line": [
+      {"strong": "Làm sáng gương hay vật dụng bằng kính:"},
+      {"text": "Hòa giấm với nước theo tỷ lệ 50: 50, đổ vào bình xịt lắc nhẹ. Sau đó dùng bình phun lên bề mặt gương hay vật dụng bằng kính, dùng vải mềm lau sạch. Hoặc cho một ít giấm vào thau nước ấm, ngâm một chiếc khăn mềm vào vài phút rồi vắt sạch để lau gương. Ở những vết ố thì cần chà mạnh tay và chà lại nhiều lần."}
+    ]},
+    {"line": [
+      {"strong": "Làm sạch sàn  trong nhà vệ sinh khỏi rêu và vết ố:"},
+      {"text": "Bạn hòa giấm với nước theo tỷ lệ 50:50 rồi dùng cây lau nhà nhúng vào hỗn hợp trên và lau cho đến khi rêu và vết ố không còn nữa. Giấm sẽ an toàn hơn chất tẩy rửa rất nhiều."}
+    ]},
+    {"line": [
+      {"strong": "Loại bỏ tì vết  bồn tắm, bồn rửa bát:"},
+      {"text": "Pha 1 phần muối trắng với 4 phần giấm, làm ẩm miếng giẻ. Sử dụng các miếng giẻ chà qua chà lại lên vết dơ bám ở bồn tắm, vòi nước, bồn rửa bát… rửa qua nước sạch."}
+    ]},
+    {"h1": "2. BAKING SODA"},
+    {"line": [
+      {"strong": "Làm sạch bồn rửa chén:"},
+      {"text": "Rắc baking soda lên bề mặt bồn rửa chén, làm ướt baking soda cho chúng nhão ra và dùng bọt biển quét hỗn hợp này lên bồn. Sau đó, bạn hốt sạch hỗn hợp và xả nước lại cho bồn sạch sẽ. Lấy khăn đã thấm giấm lau chùi lại bồn và xả lại với xà phòng và nước sạch."}
+    ]},
+    {"line": [
+      {"strong": "Làm sạch bếp nấu:"},
+      {"text": "Rắc baking soda lên những vị trí cần làm sạch sau đó đổ thêm một ít giấm ăn. Đợi trong khoảng thời gian từ 15-30 phút để dung dịch ngấm mới bắt đầu chà rửa."}
+    ]},
+    {"line": [
+      {"strong": "Làm sạch sàn nhà tắm: "},
+      {"text": "Dùng 1/2 chén baking soda đổ trực tiếp xuống cống cũng như rắc xung quanh sàn gần cống, tiếp tục đổ nước sôi xuống cống và sàn."}
+    ]},
+    {"line": [
+      {"strong": "Làm sạch thớt:"},
+      {"text": "Rắc baking soda lên bề mặt thớt để ngâm trong khoảng thời gian từ 15-20 phút sau đó dùng chanh chà xát bề mặt thớt."}
+    ]},
+    {"line": [
+      {"strong": "Làm sạch bồn phòng tắm:"},
+      {"text": "Rắc baking soda lên những vị trí bám bẩn của bồn tắm đặc biệt là ống thoát nước chờ khoảng 10 phút dùng nước xối lại thật sạch để loại bỏ các vết bẩn cứng đầu. Bạn cũng có thể dùng giấm ăn hoặc nước sôi để dội lại một lần nữa cho sạch hết các vết cáu bẩn cũng như khử hoàn toàn các mùi hôi khó chịu."}
+    ]}
+  ]
+}

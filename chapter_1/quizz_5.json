@@ -1,0 +1,66 @@
+{
+  "id": "5",
+  "type": "QUIZZ",
+  "title": "Bài kiểm tra: dọn phòng ngủ",
+  "scoreRate": 80,
+  "nextLesson": "https://raw.githubusercontent.com/dantn93/TrainingTest/master/chapter_1/lesson_11.json",
+  "previousLesson": "https://raw.githubusercontent.com/dantn93/TrainingTest/master/chapter_1/lesson_10.json",
+  "questions": [
+    {
+      "id": 0,
+      "type": "ONE_CHOICE",
+      "question": "Các công dụng của cây lau đa năng trong việc lau dọn phòng ngủ",
+      "rightAnswer": [3],
+      "choices": [
+        "Lau tủ, tường",
+        "Lau sàn",
+        "Lau cửa kính",
+        "Tất cả các đáp án trên"
+      ]
+    },
+    {
+      "id": 1,
+      "type": "MULTI_CHOICES",
+      "question": "Cần lưu ý gì khi thao tác trong phòng ngủ (Có thể chọn nhiều đáp án)",
+      "rightAnswer": [0, 1, 3],
+      "choices": [
+        "Mở cửa khi thao tác bên trong phòng",
+        "Gỡ ga cũ và thay ga mới hoặc mang đi giặt nếu khách yêu cầu",
+        "Đóng kín cửa để có thể yên tâm làm việc",
+        "Mở rèm cửa cho thông thoáng trước khi bắt đầu làm"
+      ]
+    },
+    {
+      "id": 2,
+      "type": "ONE_CHOICE",
+      "question": "Cần lưu ý gì khi lau đầu giường?",
+      "rightAnswer": [1],
+      "choices": [
+        "Khu vực này ít bụi bám vào, có thể bỏ qua được",
+        "Dùng khăn ẩm vắt khô để lau",
+        "Dùng cây lau đa năng để lau nhanh hơn"
+      ]
+    },
+    {
+      "id": 3,
+      "type": "ONE_CHOICE",
+      "question": "Bắt đầu dọn giường ngủ bằng việc:",
+      "rightAnswer": [1],
+      "choices": [
+        "Thay vỏ gối cũ, bọc giường mới",
+        "Gỡ ga cũ và thay ga mới hoặc mang đi giặt; dùng khăn ẩm lau đầu gường, sắp xếp lại gối mền.",
+        "Xếp gọn gối và mền cho khách là được"
+      ]
+    },
+    {
+      "id": 4,
+      "type": "ONE_CHOICE",
+      "question": "Lau sàn trước rồi mới quét sàn sẽ nhanh và hiệu quả hơn",
+      "rightAnswer": [1],
+      "choices": [
+        "Đúng. Vì sẽ bớt được các bụi nhỏ bay lên",
+        "Sai. quét trước cho bớt rác và bụi rồi lau"
+      ]
+    }
+  ]
+}

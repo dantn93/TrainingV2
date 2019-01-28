@@ -1,0 +1,32 @@
+{
+  "id": "4",
+  "type": "QUIZZ",
+  "title": "Bài kiểm tra: dọn nhà bếp",
+  "scoreRate": 80,
+  "nextLesson": "https://raw.githubusercontent.com/dantn93/TrainingTest/master/chapter_1/lesson_10.json",
+  "previousLesson": "https://raw.githubusercontent.com/dantn93/TrainingTest/master/chapter_1/lesson_9.json",
+  "questions": [
+    {
+      "id": 0,
+      "type": "ONE_CHOICE",
+      "question": "Có được phép dùng nước lau kính để lau tủ và tường bếp",
+      "rightAnswer": [1],
+      "choices": [
+        "Không. Nước lau kính là hóa chất sẽ ăn mòn các bề mặt gỗ",
+        "Được. Nước lau kính không gây hư hại nếu sử dụng đúng cách"
+      ]
+    },
+    {
+      "id": 1,
+      "type": "ONE_CHOICE",
+      "question": "Khu vực nào sau đây sẽ được vệ sinh trước nhất",
+      "rightAnswer": [2],
+      "choices": [
+        "Bồn rửa chén",
+        "Bếp nấu",
+        "Tủ và tường bếp",
+        "Sàn nhà"
+      ]
+    }
+  ]
+}

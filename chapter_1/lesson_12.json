@@ -1,0 +1,88 @@
+{
+  "id": "12",
+  "type": "LESSON",
+  "title": "Dọn nhà vệ sinh",
+  "nextLesson": null,
+  "previousLesson": "https://raw.githubusercontent.com/dantn93/TrainingTest/master/chapter_1/lesson_11.json",
+  "quizzLink": "https://raw.githubusercontent.com/dantn93/TrainingTest/master/chapter_1/quizz_7.json",
+  "quizzId": "7",
+  "content" : [
+    {"banner": "http://13.229.69.123/wp-content/uploads/2018/09/Vs-1024x238.png"},
+    {"h1": "DỤNG CỤ DỌN NHÀ TẮM/ NHÀ VỆ SINH"},
+    {"list": [
+      {"line": [
+        {"text": "Khăn lau đa năng"}
+      ]},
+      {"line": [
+        {"text": "Gạt kính/ gạt nước"}
+      ]},
+      {"line": [
+        {"text": "Găng tay"}
+      ]},
+      {"line": [
+        {"text": "Giấm"}
+      ]},
+      {"line": [
+        {"text": "Nước lau sàn"}
+      ]},
+      {"line": [
+        {"text": "Nước lau kính"}
+      ]},
+      {"line": [
+        {"text": "Kem tẩy đa năng"}
+      ]},
+      {"line": [
+        {"text": "Nước rửa chén"}
+      ]}
+    ]},
+    {"h1": "04 BƯỚC THỰC HIỆN"},
+    {"h1": "Bước 1: Gom rác"},
+    {"line": [
+      {"text": "Chuẩn bị một túi Nilon để dọn đến đâu mà thấy có rác thì gom ngay vào bịch, đặc biệt là tóc hoặc các mẫu giấy nhỏ. Song song với bước này, nếu sàn nhà tắm có chai lọ hoặc vật dụng, bTasker đem ra ngoài để, tránh văng nước làm ướt và cản trở quá trình thao tác"}
+    ]},
+    {"h1": "Bước 2: Đổ dung dịch tẩy rửa vào các vết bẩn cứng đầu"},
+    {"line": [
+      {"text": "Đổ một ít dung dịch tẩy rửa vào những vết bẩn cứng đầu hay các vị trí cần tẩy uế trong nhà vệ sinh và ngâm ít nhất trong 5 phút trước khi tiến hành vệ sinh (bồn cầu, bồn tắm, các góc phòng, góc tường, cửa…)"}
+    ]},
+    {"h1": "Bước 3: Vệ sinh các bề mặt"},
+    {"line": [
+      {"text": "Có rất nhiều bề mặt cần được vệ sinh bằng các loại hóa chất riêng biệt:"}
+    ]},
+    {"list": [
+      {"line": [
+        {"strong": "Đối với các bề mặt kính:"},
+        {"text": "nên sử dụng nước lau kính, giấm pha, khăn đa năng hoặc cây gạt kính để làm sạch."}
+      ]},
+      {"line": [
+        {"strong": "Đối với các bề mặt bằng sứ:"},
+        {"text": "các vật dụng có tráng men nên sử dụng khăn mềm với một ít chất tẩy rửa nhẹ để tránh làm tróc hay hư hỏng."}
+      ]},
+      {"line": [
+        {"strong": "Đối với các bề mặt Inox:"},
+        {"text": "không được sử dụng các hóa chất tẩy rửa mạnh. Bạn có thể sử dụng một ít giấm trắng hòa với nước để vệ sinh."}
+      ]}
+    ]},
+    {"h1": "Bước 4: Vệ sinh bồn cầu"},
+    {"line": [
+      {"text": "Sau khi đã ngâm với dung dịch tẩy rửa từ 5-10 phút, dùng bàn chải để vệ sinh phần bên trong của bồn cầu. Cần chú ý dùng khăn mềm vệ sinh bề mặt ngoài bồn, phần trên và dưới của ghế ngồi, sau đó lau khô lại một lần nữa bằng khăn sạch."}
+    ]},
+    {"h1": "* Lưu ý:"},
+    {"list": [
+      {"line": [
+        {"text": "Các khu vực xung quanh sàn nhà, góc tường đều phải khô ráo."}
+      ]},
+      {"line": [
+        {"text": "Vệ sinh kỹ khu vực bồn rửa mặt và các tủ kệ, dùng khăn mềm lau khô tránh trầy xước"}
+      ]},
+      {"line": [
+        {"text": "Phần gương soi cần được vệ sinh thật sạch, bóng và được lau khô"}
+      ]},
+      {"line": [
+        {"text": "Các chai lọ cần được nhấc lên để vệ sinh bên dưới và đặt lại chổ cũ"}
+      ]},
+      {"line": [
+        {"text": "Mở cửa phòng tắm khi thao tác để tránh ngộ độc hóa chất"}
+      ]}
+    ]}
+  ]
+}

@@ -1,0 +1,65 @@
+{
+  "id": "0",
+  "type": "QUIZZ",
+  "title": "Bài kiểm tra: thái độ, tác  phong, ứng xử",
+  "scoreRate": 80,
+  "nextLesson": "https://raw.githubusercontent.com/dantn93/TrainingTest/master/chapter_1/lesson_6.json",
+  "previousLesson": "https://raw.githubusercontent.com/dantn93/TrainingTest/master/chapter_1/lesson_5.json",
+  "questions": [
+    {
+      "id": 0,
+      "type": "ONE_CHOICE",
+      "question": "Khi không tìm được địa chỉ nhà khách hoặc địa chỉ nhà khách khó tìm thì phải làm sao?",
+      "rightAnswer": [0],
+      "choices": [
+        "Gọi khách hàng nhờ chỉ địa chỉ nhà",
+        "Tự tìm đường đi, nếu đến trễ thì nói do nhà khách khó tìm nên đến trễ.",
+        "Gọi về công ty nhờ tổng đài chỉ đường đi và báo khách mình sẽ đến trễ."
+      ]
+    },
+    {
+      "id": 1,
+      "type": "MULTI_CHOICES",
+      "question": "Trường hợp nào sau đây sẽ được liên hệ với khách hàng? (Có thể chọn nhiều đáp án)",
+      "rightAnswer": [0],
+      "choices": [
+        "Không tìm được địa chỉ khách hàng",
+        "Xin hủy công việc",
+        "Xin thay đổi thời gian làm việc",
+        "Liên lạc để làm riêng với khách hàng"
+      ]
+    },
+    {
+      "id": 2,
+      "type": "ONE_CHOICE",
+      "question": "Khi khách hàng mở cửa để người giúp việc vào làm thì nên nói gì khi gặp khách hàng?",
+      "rightAnswer": [2],
+      "choices": [
+        "Chào khách, hỏi khách dụng cụ ở đâu và đi làm việc.",
+        "Cười với khách rồi vào lấy dụng cụ làm việc.",
+        "Chào khách, giới thiệu tên, đến từ công ty bTaskee để dọn dẹp nhà cho khách. Hỏi khách cần mình làm gì trước và nơi để dụng cụ làm việc."
+      ]
+    },
+    {
+      "id": 3,
+      "type": "ONE_CHOICE",
+      "question": "Khi làm việc tại nhà khách hàng bạn nên mặc trang phục như thế nào?",
+      "rightAnswer": [2],
+      "choices": [
+        "Mặc đồ thoải mái để thuận tiện cho công việc",
+        "Khách cho phép thì không cần mang đồng phục công ty",
+        "Luôn luôn mặc đồng phục của công ty khi làm việc"
+      ]
+    },
+    {
+      "id": 4,
+      "type": "ONE_CHOICE",
+      "question": "Nếu lỡ đến nhà khách mà không liên hệ được với Khách, người giúp việc có thể ra về và báo cho tổng đài sau.",
+      "rightAnswer": [1],
+      "choices": [
+        "Đúng",
+        "Sai"
+      ]
+    }
+  ]
+}

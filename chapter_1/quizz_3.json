@@ -1,0 +1,45 @@
+{
+  "id": "3",
+  "type": "QUIZZ",
+  "title": "Bài kiểm tra: cách sử dụng chất tẩy rửa",
+  "scoreRate": 80,
+  "nextLesson": "https://raw.githubusercontent.com/dantn93/TrainingTest/master/chapter_1/lesson_9.json",
+  "previousLesson": "https://raw.githubusercontent.com/dantn93/TrainingTest/master/chapter_1/lesson_8.json",
+  "questions": [
+    {
+      "id": 0,
+      "type": "MULTI_CHOICES",
+      "question": "Dấm được sử dụng khi nào? (Được chọn nhiều đáp án)",
+      "rightAnswer": [0, 1, 2],
+      "choices": [
+        "Loại bỏ cặn bã, tẩy vết ố bám",
+        "Làm sáng gương",
+        "Làm sạch sàn",
+        "Đánh bóng các loại sàn, đồ dùng bằng đá"
+      ]
+    },
+    {
+      "id": 1,
+      "type": "MULTI_CHOICES",
+      "question": "Cần lưu ý gì khi sử dụng hóa chất tẩy rửa? (Được chọn nhiều đáp án)",
+      "rightAnswer": [0, 1, 3],
+      "choices": [
+        "Chỉ sử dụng khi biết công dụng chính xác của nó",
+        "Tuyệt đối không sử dụng chất tẩy rửa mạnh cho các vật dụng inox",
+        "Đổ dung dịch càng nhiều thì vệ sinh càng sạch",
+        "Sau khi sử dụng cần rửa lại bằng nước sạch để đảm bảo sức khỏe cho gia đình khách"
+      ]
+    },
+    {
+      "id": 2,
+      "type": "ONE_CHOICE",
+      "question": "Có nên mang theo nhiều hóa chất và tự ý quyết định sử dụng không?",
+      "rightAnswer": [1],
+      "choices": [
+        "Nên đem theo để có đủ dụng cụ để dọn dẹp nhanh hơn.",
+        "Có thể đem theo, nhưng phải hỏi Khách xem có được sử dụng hay không.",
+        "Không nên vì có nhiều Khách hàng bị dị ứng với hóa chất."
+      ]
+    }
+  ]
+}

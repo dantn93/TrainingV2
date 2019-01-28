@@ -1,0 +1,33 @@
+{
+  "id": "2",
+  "type": "LESSON",
+  "title": "Lợi ích khi trở thành bTasker",
+  "nextLesson": "https://raw.githubusercontent.com/dantn93/TrainingTest/master/chapter_1/lesson_3.json",
+  "previousLesson": "https://raw.githubusercontent.com/dantn93/TrainingTest/master/chapter_1/lesson_1.json",
+  "content" : [
+                {"h1": "1. Có nguồn thu nhập cao, ổn định"},
+                {"line": [
+                  {"text": "Với mức thu nhập cơ bản 51.000vnđ/giờ, một bTasker có thể dễ dàng kiếm được từ 8-10 triệu/tháng nếu thường xuyên theo dõi ứng dụng và siêng nhận việc đi làm."}
+                ]},
+                {"h1": "2. Có sự linh hoạt, chủ động thời gian làm việc"},
+                {"line": [
+                  {"text": "Các bTasker có thể hoàn toàn chủ động sắp xếp thời gian và nhận các công việc tùy theo lịch rảnh của mình. Nếu cảm thấy không khỏe, bận việc gia đình hay phải dành thời gian cho các kế hoạch cá nhân khác…các bTasker có thể tạm nghỉ, không nhận việc."}
+                ]},
+                {"h1": "3. Không bị phụ thuộc vào một chủ nhà duy nhất"},
+                {"line": [
+                  {"text": "Với hơn 50.000 Khách hàng trên hệ thống, các bTasker sẽ luôn có công việc để nhận và đi làm. Nếu cảm thấy không thoải mái hay không phù hợp với Khách hàng này, các bTasker có thể nhận việc của Khách hàng khác"}
+                ]},
+                {"h1": "4. Được bảo vệ những quyền lợi cá nhân trong khi làm việc"},
+                {"line": [
+                  {"text": "Khi trở thành Cộng Tác Viên của bTaskee, các bTasker sẽ được bảo vệ những quyền lợi cá nhân khi làm việc như: Bảo hiểm cho người lao động; hỗ trợ hủy hoặc từ chối những công việc không phù hợp tính chất dọn dẹp gia đình; từ chối những khách hàng có thái độ, hành vi không đúng mực; khi xảy ra tranh chấp"}
+                ]},
+                {"h1": "5. Có cộng đồng các chị em Cộng Tác Viên để giao lưu, chia sẻ kinh nghiệm"},
+                {"line": [
+                  {"text": "Tại bTaskee có một Cộng đồng dành riêng cho các bTasker. Đây là nơi các bTasker có thể gặp gỡ, giao lưu và chia sẻ kinh nghiệm trong khi làm việc. Các bTasker không làm việc cá nhân đơn lẻ mà sinh hoạt và làm việc như một tập thể, cộng đồng."}
+                ]},
+                {"h1": "6. Được tôn trọng bởi khách hàng, cộng đồng và xã hội"},
+                {"line": [
+                  {"text": "Không những tạo công việc làm cho người lao động, bTaskee còn mong muốn mang lại cái nhìn mới mẻ cho ngành Giúp Việc Nhà tại Việt Nam. Giúp các chị em có sự tự tin, thoải mái và có niềm vui để có chất lượng làm việc tốt."}
+                ]}
+              ]
+}

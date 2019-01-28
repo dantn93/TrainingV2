@@ -1,0 +1,42 @@
+{
+  "id": "3",
+  "type": "LESSON",
+  "title": "Thái độ",
+  "nextLesson": "https://raw.githubusercontent.com/dantn93/TrainingTest/master/chapter_1/lesson_4.json",
+  "previousLesson": "https://raw.githubusercontent.com/dantn93/TrainingTest/master/chapter_1/lesson_2.json",
+  "quizzLink": null,
+  "quizzId": null,
+  "content" : [
+                {"banner": "http://13.229.69.123/wp-content/uploads/2018/09/thai-do-300x70.png"},
+                {"h1": "1. Tôn trọng không gian riêng tư của Khách hàng"},
+                {"line": [
+                  {"text": "Khách hàng sử dụng dịch vụ Giúp việc nhà theo giờ là vì muốn có sự tiện lợi, sự linh động thời gian mà mô hình mang lại, quan trọng hơn là họ muốn có sự riêng tư."}
+                ]},
+                {"list": [
+                  {"line": [
+                    {"text": "Không dòm ngó, xem xét nhà khách"}
+                  ]},
+                  {"line": [
+                    {"text": "Không tự ý di chuyển vật dụng, nếu có lau chùi thì phải đặt lại chỗ cũ"}
+                  ]},
+                  {"line": [
+                    {"text": "Xin phép và gõ cửa khi muốn vào dọn dẹp phòng ốc trong nhà khách"}
+                  ]}
+                ]},
+                {"h1": "2. Làm việc với thái độ vui vẻ, tích cực, không để cảm xúc ảnh hưởng đến công việc, đến Khách hàng"},
+                {"line": [
+                  {"text": "bTaskee tin rằng một người giúp việc cảm thấy hài lòng với công việc của mình thì cũng sẽ mang đến sự hài lòng cho người Khách hàng mà các chị phục vụ. Do đó, khi đi làm, các bTasker nên giữ thái độ vui vẻ và tích cực."}
+                ]},
+                {"h1": "3. Không to tiếng, tỏ thái độ gắt gỏng, khó chịu với Khách hàng"},
+                {"line": [
+                  {"text": "Mỗi gia đình sẽ có cách ứng xử và văn hóa sinh hoạt khác nhau, việc Khách hàng không hài lòng hoặc có thái độ khó chịu là điều khó tránh khỏi, các bTasker nên hiểu về sự khác biệt này để có cách cư xử thích hợp nhất."}
+                ]},
+                {"line": [
+                  {"text": "Ngay lúc xảy ra sự việc, các bTasker tuyệt đối không được tỏ thái độ lại với khách, mà nên vui vẻ đón nhận và làm theo mong muốn hay sự hướng dẫn. Sự chịu khó, sự kiên nhẫn chính là đức tính quan trọng và nổi bật nhất của những bTasker"}
+                ]},
+                {"h1": "4. Làm việc nghiêm túc, trong giờ làm không làm việc riêng"},
+                {"line": [
+                  {"text": "Trong giờ làm, bTasker phải tập trung vào công việc, tuyệt đối không được làm việc riêng như sử dụng điện thoại  (nghe, gọi, nhắn tin…) hay mang đồ ăn, nước uống đến nhà khách…"}
+                ]}
+              ]
+}

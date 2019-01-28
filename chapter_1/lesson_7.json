@@ -1,0 +1,80 @@
+{
+  "id": "7",
+  "type": "LESSON",
+  "title": "Dụng cụ dọn dẹp",
+  "nextLesson": "https://raw.githubusercontent.com/dantn93/TrainingTest/master/chapter_1/lesson_8.json",
+  "previousLesson": "https://raw.githubusercontent.com/dantn93/TrainingTest/master/chapter_1/lesson_6.json",
+  "quizzLink": "https://raw.githubusercontent.com/dantn93/TrainingTest/master/chapter_1/quizz_2.json",
+  "quizzId": "2",
+  "content" : [
+    {"banner": "http://13.229.69.123/wp-content/uploads/2018/09/dung-cu-1-300x70.png"},
+    {"h1": "CÁC DỤNG CỤ CƠ BẢN CHO VIỆC DỌN DẸP NHÀ"},
+    {"list": [
+      {"line": [
+        {"text": "Khăn lau đa năng"}
+      ]},
+      {"line": [
+        {"text": "Cây gạt kính"}
+      ]},
+      {"line": [
+        {"text": "Chổi và ky hốt rác"}
+      ]},
+      {"line": [
+        {"text": "Găng tay"}
+      ]},
+      {"line": [
+        {"text": "Bàn chải"}
+      ]},
+      {"line": [
+        {"text": "Cây lau đa năng"}
+      ]},
+      {"line": [
+        {"text": "Nước rửa kính"}
+      ]},
+      {"line": [
+        {"text": "Nước tẩy nhà vệ sinh"}
+      ]},
+      {"line": [
+        {"text": "Kem tẩy đa năng"}
+      ]},
+      {"line": [
+        {"text": "Giấm/ Baking soda"}
+      ]},
+      {"line": [
+        {"text": "Nước rửa chén"}
+      ]}
+    ]},
+    {"h1": "Đối với khăn lau đa năng"},
+    {"list": [
+      {"line": [
+        {"text": "Phân loại riêng các loại khăn lau theo mục đích: khăn lau ướt và khăn lau khô; khăn lau kính, lau bàn, lau bếp…"}
+      ]},
+      {"line": [
+        {"text": "Nên chọn các loại khăn mềm, không đổ lông"}
+      ]},
+      {"line": [
+        {"text": "Nên giặt khăn sạch ngay sau khi sử dụng bằng nước rửa chén và nước nóng. Nếu khăn có mùi hôi, có thể ngâm khăn trong giấm trắng trước khi giặt và phơi khô."}
+      ]}
+    ]},
+    {"h1": "Đối với cây lau đa năng"},
+    {"line": [
+      {"text": "Nên chọn loại cây lau đa năng như hình bên để tiện cho việc dọn dẹp."}
+    ]},
+    {"h1": "Ưu điểm:"},
+    {"list": [
+      {"line": [
+        {"text": "Có thể thu gọn, tháo rời rất tiện để mang theo;"}
+      ]},
+      {"line": [
+        {"text": "Tấm vải chất liệu tốt, mềm, dễ vắt khô, dễ thay giặt, lau rất sạch và nhanh chóng;"}
+      ]}
+    ]},
+    {"image": "http://13.229.69.123/wp-content/uploads/2018/09/180807_Training-Full-1_html_14c0631f52eddb5e.gif"},
+    {"image": "http://13.229.69.123/wp-content/uploads/2018/09/180807_Training-Full-1_html_82102aea50c908ad.gif"},
+    {"h1": "Nơi mua dụng cụ"},
+    {"line": [
+      {"text": "Các bTasker có thể mua ở các chợ truyền thống hoặc siêu thị như Co.op Mart, Lotte, Big C, hệ thống Aeon mall… Hoặc ở các chợ đầu mối lớn như chợ Bình Tây (Chợ Lớn) hay các siêu thị chuyên bán sỉ như MM MEGA MARKET (Siêu thị Metro cũ) giá cả các mặt hàng sẽ rẻ hơn, mặt hàng cũng khá đa dạng, có các khuyến mãi hấp dẫn."}
+    ]},
+    {"video": "bnvHlXfT6Z0"}
+  ]
+}

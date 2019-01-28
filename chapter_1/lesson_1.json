@@ -1,0 +1,31 @@
+{
+  "id": "1",
+  "type": "LESSON",
+  "title": "Mô tả cách Nhận việc",
+  "nextLesson": "https://raw.githubusercontent.com/dantn93/TrainingTest/master/chapter_1/lesson_2.json",
+  "previousLesson": "https://raw.githubusercontent.com/dantn93/TrainingTest/master/chapter_1/lesson_0.json",
+  "content": [
+                {"h1": "Cách hoạt động của mô hình bTaskee"},
+                {"list": [
+                  {"line": [
+                    {"text": "Khi có nhu cầu, Khách hàng sẽ đăng thông tin công việc lên hệ thống. Bao gồm: địa điểm, ngày, giờ bắt đầu làm việc, những yêu cầu khác."}
+                  ]},
+                  {"line": [
+                    {"text": "Hệ thống sẽ gửi những thông tin công việc này đến các bTasker thông qua ứng dụng bTaskee trên điện thoại. bTasker xem thông tin và chọn công việc phù hợp nhất."}
+                  ]},
+                  {"line": [
+                    {"text": "Sau khi nhận việc thành công, bTasker xác nhận lại với Khách hàng bằng cách"},
+                    {"strong": "Gọi điện"},
+                    {"text": "hoặc"},
+                    {"strong": "Chat"},
+                    {"text": "trực tiếp trên ứng dụng."}
+                  ]},
+                  {"line": [
+                    {"text": "Đúng thời gian, địa điểm, bTasker đến nhà Khách hàng để thực hiện công việc."}
+                  ]},
+                  {"line": [
+                    {"text": "Sau khi hoàn thành công việc, bTasker nhận tiền trực tiếp từ Khách hàng."}
+                  ]}
+                ]}
+              ]
+}
