@@ -2,9 +2,9 @@
   "id": "7",
   "type": "LESSON",
   "title": "Dụng cụ dọn dẹp",
-  "nextLesson": "https://raw.githubusercontent.com/dantn93/TrainingTest/master/chapter_1/lesson_8.json",
-  "previousLesson": "https://raw.githubusercontent.com/dantn93/TrainingTest/master/chapter_1/lesson_6.json",
-  "quizzLink": "https://raw.githubusercontent.com/dantn93/TrainingTest/master/chapter_1/quizz_2.json",
+  "nextLesson": "https://raw.githubusercontent.com/dantn93/TrainingV2/master/chapter_1/lesson_8.json",
+  "previousLesson": "https://raw.githubusercontent.com/dantn93/TrainingV2/master/chapter_1/lesson_6.json",
+  "quizzLink": "https://raw.githubusercontent.com/dantn93/TrainingV2/master/chapter_1/quizz_2.json",
   "quizzId": "2",
   "content" : [
     {"banner": "http://13.229.69.123/wp-content/uploads/2018/09/dung-cu-1-300x70.png"},

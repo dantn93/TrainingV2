@@ -2,9 +2,9 @@
   "id": "5",
   "type": "LESSON",
   "title": "Ứng xử",
-  "nextLesson": "https://raw.githubusercontent.com/dantn93/TrainingTest/master/chapter_1/lesson_6.json",
-  "previousLesson": "https://raw.githubusercontent.com/dantn93/TrainingTest/master/chapter_1/lesson_4.json",
-  "quizzLink": "https://raw.githubusercontent.com/dantn93/TrainingTest/master/chapter_1/quizz_0.json",
+  "nextLesson": "https://raw.githubusercontent.com/dantn93/TrainingV2/master/chapter_1/lesson_6.json",
+  "previousLesson": "https://raw.githubusercontent.com/dantn93/TrainingV2/master/chapter_1/lesson_4.json",
+  "quizzLink": "https://raw.githubusercontent.com/dantn93/TrainingV2/master/chapter_1/quizz_0.json",
   "quizzId": "0",
   "content" : [
                 {"banner": "http://13.229.69.123/wp-content/uploads/2018/09/u%CC%9Bng-xu%CC%9B-300x70.png"},
