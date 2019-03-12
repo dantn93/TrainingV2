@@ -32,7 +32,7 @@
     {
       "id": 2,
       "type": "MULTI_CHOICES",
-      "question": "Nên vứt rác vào lúc nào",
+      "question": "Tác dụng của cây lăn bụi là gì?",
       "rightAnswer": [0,1],
       "choices": [
         "Lăn tóc và bụi trên sàn",
