@@ -48,6 +48,7 @@
     "type": "QUIZZ",
     "title": "Bài kiểm tra: thái độ, tác phong, ứng xử",
     "time": 10,
+    "numberOfQuestions": 5,
     "link": "https://raw.githubusercontent.com/dantn93/TrainingV2/master/chapter_1/quizz_0.json"
   },
   { "block": "Kỹ năng" },
@@ -63,6 +64,7 @@
     "type": "QUIZZ",
     "title": "Bài kiểm tra: quy tắc vệ sinh nhà cửa chung",
     "time": 10,
+    "numberOfQuestions": 3,
     "link": "https://raw.githubusercontent.com/dantn93/TrainingV2/master/chapter_1/quizz_1.json"
   },
   {
@@ -77,6 +79,7 @@
     "type": "QUIZZ",
     "title": "Bài kiểm tra: dụng cụ dọn dẹp",
     "time": 10,
+    "numberOfQuestions": 8,
     "link": "https://raw.githubusercontent.com/dantn93/TrainingV2/master/chapter_1/quizz_2.json"
   },
   {
@@ -91,6 +94,7 @@
     "type": "QUIZZ",
     "title": "Bài kiểm tra: cách sử dụng chất tẩy rửa",
     "time": 10,
+    "numberOfQuestions": 3,
     "link": "https://raw.githubusercontent.com/dantn93/TrainingV2/master/chapter_1/quizz_3.json"
   },
   {
@@ -105,6 +109,7 @@
     "type": "QUIZZ",
     "title": "Bài kiểm tra: dọn nhà bếp",
     "time": 10,
+    "numberOfQuestions": 2,
     "link": "https://raw.githubusercontent.com/dantn93/TrainingV2/master/chapter_1/quizz_4.json"
   },
   {
@@ -119,6 +124,7 @@
     "type": "QUIZZ",
     "title": "Bài kiểm tra: dọn phòng ngủ",
     "time": 10,
+    "numberOfQuestions": 5,
     "link": "https://raw.githubusercontent.com/dantn93/TrainingV2/master/chapter_1/quizz_5.json"
   },
   {
@@ -133,6 +139,7 @@
     "type": "QUIZZ",
     "title": "Bài kiểm tra: dọn phòng khách",
     "time": 10,
+    "numberOfQuestions": 2,
     "link": "https://raw.githubusercontent.com/dantn93/TrainingV2/master/chapter_1/quizz_6.json"
   },
   {
@@ -147,6 +154,7 @@
     "type": "QUIZZ",
     "title": "Bài kiểm tra: dọn nhà vệ sinh",
     "time": 10,
+    "numberOfQuestions": 2,
     "link": "https://raw.githubusercontent.com/dantn93/TrainingV2/master/chapter_1/quizz_7.json"
   },
   {
@@ -154,6 +162,7 @@
     "type": "QUIZZ",
     "title": "Bài kiểm tra tổng quát",
     "time": 10,
+    "numberOfQuestions": 13,
     "link": "https://raw.githubusercontent.com/dantn93/TrainingV2/master/chapter_1/quizz_8.json"
   }
 ]

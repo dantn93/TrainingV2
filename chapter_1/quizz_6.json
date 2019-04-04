@@ -7,7 +7,7 @@
   "previousLesson": "https://raw.githubusercontent.com/dantn93/TrainingV2/master/chapter_1/lesson_11.json",
   "questions": [
     {
-      "id": 0,
+      "id": "0",
       "type": "MULTI_CHOICES",
       "question": "Lưu ý nào khi lau các kệ tủ, TV (có thể chọn nhiều đáp án)",
       "rightAnswer": [1, 3],
@@ -19,7 +19,7 @@
       ]
     },
     {
-      "id": 1,
+      "id": "1",
       "type": "ONE_CHOICE",
       "question": "Trên bàn có ly, tách bẩn thì làm gì",
       "rightAnswer": [1],

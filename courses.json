@@ -2,6 +2,8 @@
   {
     "id": "0",
     "title": "Chương 1: Kiến thức cơ bản",
-    "link": "https://raw.githubusercontent.com/dantn93/TrainingV2/master/chapter_1/lessons.json"
+    "link": "https://raw.githubusercontent.com/dantn93/TrainingV2/master/chapter_1/lessons.json",
+    "rateScore": 80,
+    "version": "2"
   }
 ]

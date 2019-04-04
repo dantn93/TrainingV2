@@ -8,7 +8,7 @@
   "quizzLink": "https://raw.githubusercontent.com/dantn93/TrainingV2/master/chapter_1/quizz_8.json",
   "questions": [
     {
-      "id": 0,
+      "id": "0",
       "type": "MULTI_CHOICES",
       "question": "Khi dọn nhà vệ sinh cần lưu ý điều gì? (Có thể chọn nhiều đáp án)",
       "rightAnswer": [1, 2, 3],
@@ -20,7 +20,7 @@
       ]
     },
     {
-      "id": 1,
+      "id": "1",
       "type": "ONE_CHOICE",
       "question": "Cho dung dịch tẩy rửa vào bồn cầu trước rồi mới làm các công việc khác",
       "rightAnswer": [0],

@@ -7,7 +7,7 @@
   "previousLesson": "https://raw.githubusercontent.com/dantn93/TrainingV2/master/chapter_1/lesson_10.json",
   "questions": [
     {
-      "id": 0,
+      "id": "0",
       "type": "ONE_CHOICE",
       "question": "Các công dụng của cây lau đa năng trong việc lau dọn phòng ngủ",
       "rightAnswer": [3],
@@ -19,7 +19,7 @@
       ]
     },
     {
-      "id": 1,
+      "id": "1",
       "type": "MULTI_CHOICES",
       "question": "Cần lưu ý gì khi thao tác trong phòng ngủ (Có thể chọn nhiều đáp án)",
       "rightAnswer": [0, 1, 3],
@@ -31,7 +31,7 @@
       ]
     },
     {
-      "id": 2,
+      "id": "2",
       "type": "ONE_CHOICE",
       "question": "Cần lưu ý gì khi lau đầu giường?",
       "rightAnswer": [1],
@@ -42,7 +42,7 @@
       ]
     },
     {
-      "id": 3,
+      "id": "3",
       "type": "ONE_CHOICE",
       "question": "Bắt đầu dọn giường ngủ bằng việc:",
       "rightAnswer": [1],
@@ -53,7 +53,7 @@
       ]
     },
     {
-      "id": 4,
+      "id": "4",
       "type": "ONE_CHOICE",
       "question": "Lau sàn trước rồi mới quét sàn sẽ nhanh và hiệu quả hơn",
       "rightAnswer": [1],

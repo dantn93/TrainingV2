@@ -7,7 +7,7 @@
   "previousLesson": "https://raw.githubusercontent.com/dantn93/TrainingV2/master/chapter_1/lesson_5.json",
   "questions": [
     {
-      "id": 0,
+      "id": "0",
       "type": "ONE_CHOICE",
       "question": "Khi không tìm được địa chỉ nhà khách hoặc địa chỉ nhà khách khó tìm thì phải làm sao?",
       "rightAnswer": [0],
@@ -18,7 +18,7 @@
       ]
     },
     {
-      "id": 1,
+      "id": "1",
       "type": "MULTI_CHOICES",
       "question": "Trường hợp nào sau đây sẽ được liên hệ với khách hàng? (Có thể chọn nhiều đáp án)",
       "rightAnswer": [0],
@@ -30,7 +30,7 @@
       ]
     },
     {
-      "id": 2,
+      "id": "2",
       "type": "ONE_CHOICE",
       "question": "Khi khách hàng mở cửa để người giúp việc vào làm thì nên nói gì khi gặp khách hàng?",
       "rightAnswer": [2],
@@ -41,7 +41,7 @@
       ]
     },
     {
-      "id": 3,
+      "id": "3",
       "type": "ONE_CHOICE",
       "question": "Khi làm việc tại nhà khách hàng bạn nên mặc trang phục như thế nào?",
       "rightAnswer": [2],
@@ -52,7 +52,7 @@
       ]
     },
     {
-      "id": 4,
+      "id": "4",
       "type": "ONE_CHOICE",
       "question": "Nếu lỡ đến nhà khách mà không liên hệ được với Khách, người giúp việc có thể ra về và báo cho tổng đài sau.",
       "rightAnswer": [1],

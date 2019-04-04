@@ -7,7 +7,7 @@
   "previousLesson": "https://raw.githubusercontent.com/dantn93/TrainingV2/master/chapter_1/lesson_7.json",
   "questions": [
     {
-      "id": 0,
+      "id": "0",
       "type": "MULTI_CHOICES",
       "question": "Hóa chất dọn dẹp vệ sinh bao gồm? (Có thể chọn nhiều đáp án)",
       "rightAnswer": [0,1],
@@ -19,7 +19,7 @@
       ]
     },
     {
-      "id": 1,
+      "id": "1",
       "type": "ONE_CHOICE",
       "question": "Vì sao nên dùng khăn đa năng khi lau dọn?",
       "rightAnswer": [1],
@@ -30,7 +30,7 @@
       ]
     },
     {
-      "id": 2,
+      "id": "2",
       "type": "MULTI_CHOICES",
       "question": "Tác dụng của cây lăn bụi là gì?",
       "rightAnswer": [0,1],
@@ -42,7 +42,7 @@
       ]
     },
     {
-      "id": 3,
+      "id": "3",
       "type": "ONE_CHOICE",
       "question": "Dùng giấm để giặt khăn có mùi hôi",
       "rightAnswer": [0],
@@ -52,7 +52,7 @@
       ]
     },
     {
-      "id": 4,
+      "id": "4",
       "type": "ONE_CHOICE",
       "question": "Có nên dùng găng tay khi dọn vệ sinh?",
       "rightAnswer": [0],
@@ -63,7 +63,7 @@
       ]
     },
     {
-      "id": 5,
+      "id": "5",
       "type": "MULTI_CHOICES",
       "question": "Cây gạt kính dùng để: (Có thể chọn nhiều đáp án)",
       "rightAnswer": [0, 1],
@@ -74,7 +74,7 @@
       ]
     },
     {
-      "id": 6,
+      "id": "6",
       "type": "ONE_CHOICE",
       "question": "Giấm có thể thay thế nước lau sàn?",
       "rightAnswer": [0],
@@ -84,7 +84,7 @@
       ]
     },
     {
-      "id": 7,
+      "id": "7",
       "type": "ONE_CHOICE",
       "question": "Vì sao nên có nhiều khăn lau đa năng màu sắc khác nhau",
       "rightAnswer": [1],

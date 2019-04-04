@@ -7,7 +7,7 @@
   "previousLesson": "https://raw.githubusercontent.com/dantn93/TrainingV2/master/chapter_1/lesson_8.json",
   "questions": [
     {
-      "id": 0,
+      "id": "0",
       "type": "MULTI_CHOICES",
       "question": "Dấm được sử dụng khi nào? (Được chọn nhiều đáp án)",
       "rightAnswer": [0, 1, 2],
@@ -19,7 +19,7 @@
       ]
     },
     {
-      "id": 1,
+      "id": "1",
       "type": "MULTI_CHOICES",
       "question": "Cần lưu ý gì khi sử dụng hóa chất tẩy rửa? (Được chọn nhiều đáp án)",
       "rightAnswer": [0, 1, 3],
@@ -31,7 +31,7 @@
       ]
     },
     {
-      "id": 2,
+      "id": "2",
       "type": "ONE_CHOICE",
       "question": "Có nên mang theo nhiều hóa chất và tự ý quyết định sử dụng không?",
       "rightAnswer": [1],
