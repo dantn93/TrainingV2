@@ -9,7 +9,7 @@
     {
       "id": "0",
       "type": "MULTI_CHOICES",
-      "question": "Dấm được sử dụng khi nào? (Được chọn nhiều đáp án)",
+      "question": "Giấm được sử dụng khi nào? (Được chọn nhiều đáp án)",
       "rightAnswer": [0, 1, 2],
       "choices": [
         "Loại bỏ cặn bã, tẩy vết ố bám",
