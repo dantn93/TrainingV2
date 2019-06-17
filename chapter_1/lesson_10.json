@@ -8,7 +8,7 @@
   "quizzId": "5",
   "previousQuizz": "https://raw.githubusercontent.com/dantn93/TrainingV2/master/chapter_1/quizz_4.json",
   "content" : [
-    {"banner": "http://13.229.69.123/wp-content/uploads/2018/09/phong-ngu-1024x238.png"},
+    {"banner": "https://btaskee-stag.s3-ap-southeast-1.amazonaws.com/campaigns/bdbtQBQHhqEbpNzHF"},
     {"h1": "DỤNG CỤ DỌN PHÒNG NGỦ"},
     {"list": [
       {"line": [

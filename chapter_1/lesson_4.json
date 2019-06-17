@@ -6,7 +6,7 @@
   "previousLesson": "https://raw.githubusercontent.com/dantn93/TrainingV2/master/chapter_1/lesson_3.json",
   "quizzLink": null,
   "content" : [
-                {"banner": "http://13.229.69.123/wp-content/uploads/2018/09/tacphong-300x70.png"},
+                {"banner": "https://btaskee-stag.s3-ap-southeast-1.amazonaws.com/campaigns/WkoBG7eQY97T9J3be"},
                 {"h1": "1. Đi làm đúng giờ"},
                 {"line": [
                   {"text": "Để thể hiện sự chuyên nghiệp, bTasker nên sắp xếp và đến nhà Khách sớm ít nhất"},
@@ -22,9 +22,9 @@
                     {"text": "Về phía các bTasker: Tạo sự chuyên nghiệp và thiện cảm. Sự chỉnh chu còn thể hiện ở tóc tai gọn gàng, đồng phục sạch sẽ, giữ gìn vệ sinh cá nhân…"}
                   ]}
                 ]},
-                {"image": "http://13.229.69.123/wp-content/uploads/2018/09/180807_Training-Full-1_html_65c04ba3859afbf.png"},
+                {"image": "https://btaskee-stag.s3-ap-southeast-1.amazonaws.com/campaigns/gq6qBabFJ2WfSJGss"},
                 {"image_note": "Trang phục không chỉnh chu"},
-                {"image": "http://13.229.69.123/wp-content/uploads/2018/09/180807_Training-Full-1_html_ed1c7eb77cf71420.png"},
+                {"image": "https://btaskee-stag.s3-ap-southeast-1.amazonaws.com/campaigns/MnXaT6Zvd8nrzEKSf"},
                 {"image_note": "Trang phục chỉnh chu"},
                 {"h1": "3. Làm việc kỹ càng, nhiệt tình, không câu giờ"},
                 {"line": [

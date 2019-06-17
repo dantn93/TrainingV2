@@ -8,7 +8,7 @@
   "quizzId": "2",
   "previousQuizz": "https://raw.githubusercontent.com/dantn93/TrainingV2/master/chapter_1/quizz_1.json",
   "content" : [
-    {"banner": "http://13.229.69.123/wp-content/uploads/2018/09/dung-cu-1-300x70.png"},
+    {"banner": "https://btaskee-stag.s3-ap-southeast-1.amazonaws.com/campaigns/v9z55rK2FJfRuzJbo"},
     {"h1": "CÁC DỤNG CỤ CƠ BẢN CHO VIỆC DỌN DẸP NHÀ"},
     {"list": [
       {"line": [
@@ -70,8 +70,8 @@
         {"text": "Tấm vải chất liệu tốt, mềm, dễ vắt khô, dễ thay giặt, lau rất sạch và nhanh chóng;"}
       ]}
     ]},
-    {"image": "http://13.229.69.123/wp-content/uploads/2018/09/180807_Training-Full-1_html_14c0631f52eddb5e.gif"},
-    {"image": "http://13.229.69.123/wp-content/uploads/2018/09/180807_Training-Full-1_html_82102aea50c908ad.gif"},
+    {"image": "https://btaskee-stag.s3-ap-southeast-1.amazonaws.com/campaigns/C7MZAQPJshZ6Hy7Pf"},
+    {"image": "https://btaskee-stag.s3-ap-southeast-1.amazonaws.com/campaigns/PvRmsYbQQ8baYJp6n"},
     {"h1": "Nơi mua dụng cụ"},
     {"line": [
       {"text": "Các bTasker có thể mua ở các chợ truyền thống hoặc siêu thị như Co.op Mart, Lotte, Big C, hệ thống Aeon mall… Hoặc ở các chợ đầu mối lớn như chợ Bình Tây (Chợ Lớn) hay các siêu thị chuyên bán sỉ như MM MEGA MARKET (Siêu thị Metro cũ) giá cả các mặt hàng sẽ rẻ hơn, mặt hàng cũng khá đa dạng, có các khuyến mãi hấp dẫn."}

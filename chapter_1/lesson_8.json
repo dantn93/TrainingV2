@@ -8,7 +8,7 @@
   "quizzId": "3",
   "previousQuizz": "https://raw.githubusercontent.com/dantn93/TrainingV2/master/chapter_1/quizz_2.json",
   "content" : [
-    {"banner": "http://13.229.69.123/wp-content/uploads/2018/09/CT-768x178.png"},
+    {"banner": "https://btaskee-stag.s3-ap-southeast-1.amazonaws.com/campaigns/idNWGDTwGBAeFKKXi"},
     {"line": [
       {"text": "Các bTasker nên chuẩn bị sẵn vài loại chất tẩy rửa thông dụng để phục vụ cho công việc dọn dẹp của mình. Tốt nhất nên chọn các thương hiệu nổi tiếng như Gift, Cif, Sunlight, Vim, Sumo…"}
     ]},
